@@ -3,6 +3,7 @@
 SoftwareSerial BT(10, 11); // RX, TX
 
 const int ledPin = 12; // Pin del LED
+// hola desde check1
 
 void setup() {
   pinMode(ledPin, OUTPUT);
